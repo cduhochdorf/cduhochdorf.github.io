@@ -1,0 +1,14 @@
+# General
+*.log
+*.pyc
+/.settings
+/.env
+
+# Doxygen
+/Documentation/DoxygenCreator/doxygen-*.windows.x64.bin.zip
+/Documentation/DoxygenCreator/doxygen.exe
+/Documentation/DoxygenCreator/libclang.dll
+/Documentation/DoxygenCreator/plantuml.jar
+/Documentation/DoxygenCreator/Output_Doxygen
+/Documentation/DoxygenCreator/CDU.Doxyfile
+/Documentation/DoxygenCreator/CDU.Doxyfile.bak
