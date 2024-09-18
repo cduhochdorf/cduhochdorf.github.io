@@ -1,7 +1,7 @@
 # General
-pip==23.3.2
-requests==2.31.0
+pip==24.2
+requests==2.32.3
+packaging==24.1
 
 # Dokumentation
 astunparse==1.6.3
-doxygen-interface==0.0.1
