@@ -35,5 +35,5 @@ var NAVTREEINDEX =
 "_impressum.html"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'Klicken um Panelsynchronisation auszuschalten';
+var SYNCOFFMSG = 'Klicken um Panelsynchronisation einzuschalten';
